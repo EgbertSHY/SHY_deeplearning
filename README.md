@@ -1,4 +1,4 @@
-# SHY_deeplearning
+# SHY_Python for Pygame
 My learning progress in deep learning for python.
 
 project			|		description
