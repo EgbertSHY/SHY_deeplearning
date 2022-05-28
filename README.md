@@ -1,5 +1,5 @@
 # SHY_Python for Pygame
-My learning progress in deep learning for python.
+My learning progress in Pygame for python. Just create a simple game for learning.
 
 project			|		description
 ------------------------|-------------------------------------------
